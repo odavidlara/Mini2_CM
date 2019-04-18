@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Mini2_CM</string>
+    <string name="identifier">Que eres?</string>
+    <string name="receptor">Receptor</string>
+    <string name="emisor">Emisor</string>
 </resources>
