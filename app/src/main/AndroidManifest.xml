@@ -24,8 +24,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Emisor" />
-        <activity android:name=".Receptor"></activity>
+        <activity android:name=".Discoverer" />
+        <activity android:name=".Advertiser"></activity>
     </application>
 
 </manifest>
