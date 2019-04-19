@@ -48,6 +48,7 @@ public class Advertiser extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_advertiser);
         //////test //////////
+        startAdvertising();
     }
 
     private void startAdvertising() {
